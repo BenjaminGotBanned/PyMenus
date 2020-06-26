@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name = "PyMenus",
-    version = "1.0.3",
+    version = "1.0.4",
     author = "Benjamin O'Brien",
     author_email = "bobrien9274@gmail.com",
     description = "Simple, terminal-based menus for Python",
