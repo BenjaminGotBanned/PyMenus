@@ -1,5 +1,5 @@
 from time import sleep
-from PyMenu import Menu
+from PyMenus import Menu
 
 m = Menu()
 

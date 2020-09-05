@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name = "PyMenus",
-    version = "1.0.4",
+    version = "1.0.5",
     author = "Benjamin O'Brien",
     author_email = "bobrien9274@gmail.com",
     description = "Simple, terminal-based menus for Python",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = "https://github.com/BenjaminGotBanned/PyMenus",
+    url = "https://github.com/ii-Python/PyMenus",
     packages = setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
